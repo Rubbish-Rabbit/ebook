@@ -14,7 +14,7 @@
 
 <style scoped>
   .icon-bookmark{
-    font-size:80px;
+    font-size:8px;
     color: red;
   }
 </style>
